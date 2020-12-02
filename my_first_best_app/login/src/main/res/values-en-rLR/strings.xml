@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">my_first_best_app</string>
+    <string name="textStart">Welcome</string>
+    <string name="go_to_home">Go to home</string>
+</resources>

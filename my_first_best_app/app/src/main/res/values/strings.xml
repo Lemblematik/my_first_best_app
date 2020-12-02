@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">my_first_best_app</string>
+    <string name="logout">go to logout</string>
+
+</resources>
